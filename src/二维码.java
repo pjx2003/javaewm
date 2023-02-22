@@ -53,6 +53,7 @@ public class 二维码 {
             }
         }
 
+        //确定图片位置
         //图片.jpg  文件
         File file=new File("E:\\bbb\\ccc\\er.jpg");
         ImageIO.write(image,"jpg",file);
